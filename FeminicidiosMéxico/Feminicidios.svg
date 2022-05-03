@@ -1,0 +1,3114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="648.69806pt"
+   height="648.698pt"
+   viewBox="0 0 648.69805 648.69799"
+   version="1.1"
+   id="svg200"
+   sodipodi:docname="Feminicidios.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="D:\ProyectosRandom\Dataviz\FeminicidiosMéxico\Feminicidios.png"
+   inkscape:export-xdpi="201.13"
+   inkscape:export-ydpi="201.13"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview202"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.60698501"
+     inkscape:cx="431.64163"
+     inkscape:cy="430.81789"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg200" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path91365" />
+    </marker>
+    <rect
+       x="294.90021"
+       y="207.58337"
+       width="227.35323"
+       height="54.367077"
+       id="rect16360" />
+    <marker
+       style="overflow:visible"
+       id="DotS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2352" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2349" />
+    </marker>
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+    <clipPath
+       id="cpMi43NHwxODIuMzl8MzA2Ljc0fDQyOS4yNg==">
+      <rect
+         x="2.74"
+         y="306.73999"
+         width="179.64999"
+         height="122.52"
+         id="rect291" />
+    </clipPath>
+    <clipPath
+       id="cpMTg3Ljg2fDM2Ny41MXwxNjEuODN8Mjg0LjM1">
+      <rect
+         x="187.86"
+         y="161.83"
+         width="179.64999"
+         height="122.52"
+         id="rect565" />
+    </clipPath>
+    <clipPath
+       id="cpMzcyLjk5fDU1Mi42M3wxNi45MnwxMzkuNDM=">
+      <rect
+         x="372.98999"
+         y="16.92"
+         width="179.64999"
+         height="122.52"
+         id="rect839" />
+    </clipPath>
+    <clipPath
+       id="cpMi43NHwxODIuMzl8MTYuOTJ8MTM5LjQz">
+      <rect
+         x="2.74"
+         y="16.92"
+         width="179.64999"
+         height="122.52"
+         id="rect17-2" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="DotM-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2349-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotM-4-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2349-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotM-4-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2349-1-09" />
+    </marker>
+    <clipPath
+       id="cpMC4wMHw2MTIuMDB8MC4wMHw0MzIuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="612"
+         height="432"
+         id="rect8-7" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs11">
+    <clipPath
+       id="cpMC4wMHw2MTIuMDB8MC4wMHwxNDQuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="612"
+         height="144"
+         id="rect8" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs20">
+    <clipPath
+       id="cpMjkuNTl8NjA2LjUyfDUuNDh8MTI1LjU3">
+      <rect
+         x="29.59"
+         y="5.48"
+         width="576.92999"
+         height="120.09"
+         id="rect17" />
+    </clipPath>
+  </defs>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect128439"
+     width="648.69806"
+     height="648.698"
+     x="0"
+     y="0"
+     sodipodi:insensitive="true" />
+  <g
+     id="g46520"
+     transform="translate(0.04550477,39.339771)">
+    <g
+       id="g19838"
+       transform="translate(18.303484,116.39753)">
+      <g
+         clip-path="url(#cpMjkuNTl8NjA2LjUyfDUuNDh8MTI1LjU3)"
+         id="g168"
+         transform="translate(0,114.24324)"
+         sodipodi:insensitive="true">
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line22" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line24" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line26" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line28" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line30" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line32" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line34" />
+        <line
+           x1="45.18"
+           y1="120.11"
+           x2="590.92999"
+           y2="120.11"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line36" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line38" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line40" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line42" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line44" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line46" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line48" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line50" />
+        <line
+           x1="45.18"
+           y1="98.279999"
+           x2="590.92999"
+           y2="98.279999"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line52" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line54" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line56" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line58" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line60" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line62" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line64" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line66" />
+        <line
+           x1="45.18"
+           y1="76.440002"
+           x2="590.92999"
+           y2="76.440002"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line68" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line70" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line72" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line74" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line76" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line78" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line80" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line82" />
+        <line
+           x1="45.18"
+           y1="54.610001"
+           x2="590.92999"
+           y2="54.610001"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line84" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line86" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line88" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line90" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line92" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line94" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line96" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line98" />
+        <line
+           x1="45.18"
+           y1="32.77"
+           x2="590.92999"
+           y2="32.77"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line100" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line102" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line104" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line106" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line108" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line110" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line112" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line114" />
+        <line
+           x1="45.18"
+           y1="10.94"
+           x2="590.92999"
+           y2="10.94"
+           style="stroke:#f5f5f5;stroke-width:1.07;stroke-linecap:butt"
+           id="line116" />
+        <line
+           x1="45.18"
+           y1="125.57"
+           x2="45.18"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line118" />
+        <line
+           x1="123.15"
+           y1="125.57"
+           x2="123.15"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line120" />
+        <line
+           x1="201.11"
+           y1="125.57"
+           x2="201.11"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line122" />
+        <line
+           x1="279.07001"
+           y1="125.57"
+           x2="279.07001"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line124" />
+        <line
+           x1="357.04001"
+           y1="125.57"
+           x2="357.04001"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line126" />
+        <line
+           x1="435"
+           y1="125.57"
+           x2="435"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line128" />
+        <line
+           x1="512.96002"
+           y1="125.57"
+           x2="512.96002"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line130" />
+        <line
+           x1="590.92999"
+           y1="125.57"
+           x2="590.92999"
+           y2="5.48"
+           style="stroke:#ededed;stroke-width:1.07;stroke-linecap:butt"
+           id="line132" />
+        <polyline
+           points="45.18,75.13 123.15,53.84 201.11,39.10 279.07,22.18 357.04,16.72 435.00,16.61 512.96,13.45 590.93,95.11 "
+           style="stroke:#841e5a;stroke-width:1.6;stroke-linecap:butt"
+           id="polyline134" />
+        <circle
+           cx="45.18"
+           cy="75.129997"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle136" />
+        <circle
+           cx="123.15"
+           cy="53.84"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle138" />
+        <circle
+           cx="201.11"
+           cy="39.099998"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle140" />
+        <circle
+           cx="279.07001"
+           cy="22.18"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle142" />
+        <circle
+           cx="357.04001"
+           cy="16.719999"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle144" />
+        <circle
+           cx="435"
+           cy="16.610001"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle146" />
+        <circle
+           cx="512.96002"
+           cy="13.45"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle148" />
+        <circle
+           cx="590.92999"
+           cy="95.110001"
+           r="3.5599999"
+           style="fill:#841e5a;stroke:#841e5a;stroke-width:0.71"
+           id="circle150" />
+        <text
+           x="45.18"
+           y="93.470001"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text152">412</text>
+        <text
+           x="123.15"
+           y="72.18"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text154">607</text>
+        <text
+           x="201.11"
+           y="57.439999"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text156">742</text>
+        <text
+           x="279.07001"
+           y="40.52"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text158">897</text>
+        <text
+           x="357.04001"
+           y="35.060001"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text160">947</text>
+        <text
+           x="435"
+           y="34.950001"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text162">948</text>
+        <text
+           x="512.96002"
+           y="31.790001"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text164">977</text>
+        <text
+           x="590.92999"
+           y="113.45"
+           text-anchor="middle"
+           style="font-size:8.54px;font-family:Arial"
+           textLength="14.23"
+           lengthAdjust="spacingAndGlyphs"
+           id="text166">229</text>
+      </g>
+      <text
+         x="24.66"
+         y="123.19"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="4.8000002"
+         lengthAdjust="spacingAndGlyphs"
+         id="text170"
+         transform="translate(0,114.24324)">0</text>
+      <text
+         x="24.66"
+         y="101.35"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="14.39"
+         lengthAdjust="spacingAndGlyphs"
+         id="text172"
+         transform="translate(0,114.24324)">200</text>
+      <text
+         x="24.66"
+         y="79.519997"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="14.39"
+         lengthAdjust="spacingAndGlyphs"
+         id="text174"
+         transform="translate(0,114.24324)">400</text>
+      <text
+         x="24.66"
+         y="57.68"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="14.39"
+         lengthAdjust="spacingAndGlyphs"
+         id="text176"
+         transform="translate(0,114.24324)">600</text>
+      <text
+         x="24.66"
+         y="35.849998"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="14.39"
+         lengthAdjust="spacingAndGlyphs"
+         id="text178"
+         transform="translate(0,114.24324)">800</text>
+      <text
+         x="24.66"
+         y="14.02"
+         text-anchor="end"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text180"
+         transform="translate(0,114.24324)">1000</text>
+      <text
+         x="45.18"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text182"
+         transform="translate(0,114.24324)">2015</text>
+      <text
+         x="123.15"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text184"
+         transform="translate(0,114.24324)">2016</text>
+      <text
+         x="201.11"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text186"
+         transform="translate(0,114.24324)">2017</text>
+      <text
+         x="279.07001"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text188"
+         transform="translate(0,114.24324)">2018</text>
+      <text
+         x="357.04001"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text190"
+         transform="translate(0,114.24324)">2019</text>
+      <text
+         x="435"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text192"
+         transform="translate(0,114.24324)">2020</text>
+      <text
+         x="512.96002"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text194"
+         transform="translate(0,114.24324)">2021</text>
+      <text
+         x="590.92999"
+         y="136.66"
+         text-anchor="middle"
+         style="font-size:8.8px;font-family:'PT Sans'"
+         textLength="19.18"
+         lengthAdjust="spacingAndGlyphs"
+         id="text196"
+         transform="translate(0,114.24324)">2022</text>
+    </g>
+    <g
+       id="g2109"
+       transform="translate(16.845641,244.14077)">
+      <g
+         clip-path="url(#cpMi43NHwxODIuMzl8MzA2Ljc0fDQyOS4yNg==)"
+         id="g424"
+         transform="matrix(0.84621133,0,0,0.84621133,463.04673,-97.72268)">
+        <rect
+           x="47.610001"
+           y="344.60001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69e78;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect296" />
+        <rect
+           x="10.91"
+           y="312.31"
+           width="16.51"
+           height="14.53"
+           style="fill:#f5865f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect298" />
+        <rect
+           x="10.91"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a37d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect300" />
+        <rect
+           x="139.35001"
+           y="393.01999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a37d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect302" />
+        <rect
+           x="121"
+           y="409.16"
+           width="16.51"
+           height="14.53"
+           style="fill:#e44044;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect304" />
+        <rect
+           x="47.610001"
+           y="312.31"
+           width="16.51"
+           height="14.53"
+           style="fill:#e64646;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect306" />
+        <rect
+           x="102.65"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#bc1f53;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect308" />
+        <rect
+           x="65.959999"
+           y="312.31"
+           width="16.51"
+           height="14.53"
+           style="fill:#f47e58;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect310" />
+        <rect
+           x="47.610001"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect312" />
+        <rect
+           x="47.610001"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69c75;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect314" />
+        <rect
+           x="65.959999"
+           y="344.60001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f06b4e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect316" />
+        <rect
+           x="84.300003"
+           y="393.01999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58b64;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect318" />
+        <rect
+           x="102.65"
+           y="344.60001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f5835d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect320" />
+        <rect
+           x="47.610001"
+           y="360.73999"
+           width="16.51"
+           height="14.53"
+           style="fill:#b41b56;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect322" />
+        <rect
+           x="65.959999"
+           y="360.73999"
+           width="16.51"
+           height="14.53"
+           style="fill:#110c21;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect324" />
+        <rect
+           x="65.959999"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#f27150;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect326" />
+        <rect
+           x="84.300003"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#f47b56;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect328" />
+        <rect
+           x="29.26"
+           y="344.60001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a37d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect330" />
+        <rect
+           x="84.300003"
+           y="312.31"
+           width="16.51"
+           height="14.53"
+           style="fill:#c12151;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect332" />
+        <rect
+           x="102.65"
+           y="393.01999"
+           width="16.51"
+           height="14.53"
+           style="fill:#e64946;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect334" />
+        <rect
+           x="102.65"
+           y="360.73999"
+           width="16.51"
+           height="14.53"
+           style="fill:#eb594a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect336" />
+        <rect
+           x="84.300003"
+           y="344.60001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69e78;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect338" />
+        <rect
+           x="157.7"
+           y="393.01999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f37651;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect340" />
+        <rect
+           x="84.300003"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f37953;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect342" />
+        <rect
+           x="29.26"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#e95248;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect344" />
+        <rect
+           x="29.26"
+           y="312.31"
+           width="16.51"
+           height="14.53"
+           style="fill:#e74c47;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect346" />
+        <rect
+           x="121"
+           y="393.01999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69069;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect348" />
+        <rect
+           x="102.65"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect350" />
+        <rect
+           x="84.300003"
+           y="360.73999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69c75;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect352" />
+        <rect
+           x="121"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#ba1e54;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect354" />
+        <rect
+           x="157.7"
+           y="376.88"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect356" />
+        <rect
+           x="65.959999"
+           y="328.45001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect358" />
+        <text
+           x="55.860001"
+           y="355.34"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.91"
+           lengthAdjust="spacingAndGlyphs"
+           id="text360">AG</text>
+        <text
+           x="19.16"
+           y="323.06"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.49"
+           lengthAdjust="spacingAndGlyphs"
+           id="text362">BC</text>
+        <text
+           x="19.16"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.1"
+           lengthAdjust="spacingAndGlyphs"
+           id="text364">BS</text>
+        <text
+           x="147.61"
+           y="403.76999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.55"
+           lengthAdjust="spacingAndGlyphs"
+           id="text366">CM</text>
+        <text
+           x="129.25999"
+           y="419.91"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.97"
+           lengthAdjust="spacingAndGlyphs"
+           id="text368">CS</text>
+        <text
+           x="55.860001"
+           y="323.06"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.37"
+           lengthAdjust="spacingAndGlyphs"
+           id="text370">CH</text>
+        <text
+           x="110.91"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text372">CX</text>
+        <text
+           x="74.209999"
+           y="323.06"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.48"
+           lengthAdjust="spacingAndGlyphs"
+           id="text374">CO</text>
+        <text
+           x="55.860001"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text376">CL</text>
+        <text
+           x="55.860001"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.6"
+           lengthAdjust="spacingAndGlyphs"
+           id="text378">DG</text>
+        <text
+           x="74.209999"
+           y="355.34"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.61"
+           lengthAdjust="spacingAndGlyphs"
+           id="text380">GT</text>
+        <text
+           x="92.559998"
+           y="403.76999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.01"
+           lengthAdjust="spacingAndGlyphs"
+           id="text382">GR</text>
+        <text
+           x="110.91"
+           y="355.34"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.78"
+           lengthAdjust="spacingAndGlyphs"
+           id="text384">HG</text>
+        <text
+           x="55.860001"
+           y="371.48001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.5799999"
+           lengthAdjust="spacingAndGlyphs"
+           id="text386">JC</text>
+        <text
+           x="74.209999"
+           y="371.48001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.2"
+           lengthAdjust="spacingAndGlyphs"
+           id="text388">EM</text>
+        <text
+           x="74.209999"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.76"
+           lengthAdjust="spacingAndGlyphs"
+           id="text390">MI</text>
+        <text
+           x="92.559998"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="14.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text392">MO</text>
+        <text
+           x="37.509998"
+           y="355.34"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.25"
+           lengthAdjust="spacingAndGlyphs"
+           id="text394">NY</text>
+        <text
+           x="92.559998"
+           y="323.06"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.84"
+           lengthAdjust="spacingAndGlyphs"
+           id="text396">NL</text>
+        <text
+           x="110.91"
+           y="403.76999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.62"
+           lengthAdjust="spacingAndGlyphs"
+           id="text398">OA</text>
+        <text
+           x="110.91"
+           y="371.48001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.05"
+           lengthAdjust="spacingAndGlyphs"
+           id="text400">PU</text>
+        <text
+           x="92.559998"
+           y="355.34"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text402">QT</text>
+        <text
+           x="165.96001"
+           y="403.76999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.72"
+           lengthAdjust="spacingAndGlyphs"
+           id="text404">QR</text>
+        <text
+           x="92.559998"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.43"
+           lengthAdjust="spacingAndGlyphs"
+           id="text406">SL</text>
+        <text
+           x="37.509998"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.1800003"
+           lengthAdjust="spacingAndGlyphs"
+           id="text408">SI</text>
+        <text
+           x="37.509998"
+           y="323.06"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.09"
+           lengthAdjust="spacingAndGlyphs"
+           id="text410">SO</text>
+        <text
+           x="129.25999"
+           y="403.76999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text412">TB</text>
+        <text
+           x="110.91"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.39"
+           lengthAdjust="spacingAndGlyphs"
+           id="text414">TM</text>
+        <text
+           x="92.559998"
+           y="371.48001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text416">TL</text>
+        <text
+           x="129.25999"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.99"
+           lengthAdjust="spacingAndGlyphs"
+           id="text418">VE</text>
+        <text
+           x="165.96001"
+           y="387.63"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.04"
+           lengthAdjust="spacingAndGlyphs"
+           id="text420">YU</text>
+        <text
+           x="74.209999"
+           y="339.20001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.24"
+           lengthAdjust="spacingAndGlyphs"
+           id="text422">ZA</text>
+      </g>
+      <g
+         clip-path="url(#cpMTg3Ljg2fDM2Ny41MXwxNjEuODN8Mjg0LjM1)"
+         id="g698"
+         transform="matrix(0.84621133,0,0,0.84621133,150.56863,24.901807)">
+        <rect
+           x="232.73"
+           y="199.67999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect570" />
+        <rect
+           x="196.03"
+           y="167.39999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f47b56;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect572" />
+        <rect
+           x="196.03"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6af89;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect574" />
+        <rect
+           x="324.48001"
+           y="248.11"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a67f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect576" />
+        <rect
+           x="306.13"
+           y="264.25"
+           width="16.51"
+           height="14.53"
+           style="fill:#f5835d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect578" />
+        <rect
+           x="232.73"
+           y="167.39999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f06d4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect580" />
+        <rect
+           x="287.78"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#b41b56;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect582" />
+        <rect
+           x="251.08"
+           y="167.39999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f37953;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect584" />
+        <rect
+           x="232.73"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect586" />
+        <rect
+           x="232.73"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69c75;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect588" />
+        <rect
+           x="251.08"
+           y="199.67999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58862;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect590" />
+        <rect
+           x="269.42999"
+           y="248.11"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58862;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect592" />
+        <rect
+           x="287.78"
+           y="199.67999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f5835d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect594" />
+        <rect
+           x="232.73"
+           y="215.83"
+           width="16.51"
+           height="14.53"
+           style="fill:#c32350;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect596" />
+        <rect
+           x="251.08"
+           y="215.83"
+           width="16.51"
+           height="14.53"
+           style="fill:#3f1a42;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect598" />
+        <rect
+           x="251.08"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6956e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect600" />
+        <rect
+           x="269.42999"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#e95449;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect602" />
+        <rect
+           x="214.38"
+           y="199.67999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect604" />
+        <rect
+           x="269.42999"
+           y="167.39999"
+           width="16.51"
+           height="14.53"
+           style="fill:#bf2052;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect606" />
+        <rect
+           x="287.78"
+           y="248.11"
+           width="16.51"
+           height="14.53"
+           style="fill:#f16f4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect608" />
+        <rect
+           x="287.78"
+           y="215.83"
+           width="16.51"
+           height="14.53"
+           style="fill:#d32b49;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect610" />
+        <rect
+           x="269.42999"
+           y="199.67999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69c75;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect612" />
+        <rect
+           x="342.82999"
+           y="248.11"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58d67;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect614" />
+        <rect
+           x="269.42999"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f16f4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect616" />
+        <rect
+           x="214.38"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#eb594a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect618" />
+        <rect
+           x="214.38"
+           y="167.39999"
+           width="16.51"
+           height="14.53"
+           style="fill:#eb594a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect620" />
+        <rect
+           x="306.13"
+           y="248.11"
+           width="16.51"
+           height="14.53"
+           style="fill:#f27150;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect622" />
+        <rect
+           x="287.78"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58d67;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect624" />
+        <rect
+           x="269.42999"
+           y="215.83"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect626" />
+        <rect
+           x="306.13"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#671e53;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect628" />
+        <rect
+           x="342.82999"
+           y="231.97"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6ad86;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect630" />
+        <rect
+           x="251.08"
+           y="183.53999"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect632" />
+        <text
+           x="240.99001"
+           y="210.42999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.91"
+           lengthAdjust="spacingAndGlyphs"
+           id="text634">AG</text>
+        <text
+           x="204.28999"
+           y="178.14"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.49"
+           lengthAdjust="spacingAndGlyphs"
+           id="text636">BC</text>
+        <text
+           x="204.28999"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.1"
+           lengthAdjust="spacingAndGlyphs"
+           id="text638">BS</text>
+        <text
+           x="332.73999"
+           y="258.85001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.55"
+           lengthAdjust="spacingAndGlyphs"
+           id="text640">CM</text>
+        <text
+           x="314.39001"
+           y="275"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.97"
+           lengthAdjust="spacingAndGlyphs"
+           id="text642">CS</text>
+        <text
+           x="240.99001"
+           y="178.14"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.37"
+           lengthAdjust="spacingAndGlyphs"
+           id="text644">CH</text>
+        <text
+           x="296.04001"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text646">CX</text>
+        <text
+           x="259.34"
+           y="178.14"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.48"
+           lengthAdjust="spacingAndGlyphs"
+           id="text648">CO</text>
+        <text
+           x="240.99001"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text650">CL</text>
+        <text
+           x="240.99001"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.6"
+           lengthAdjust="spacingAndGlyphs"
+           id="text652">DG</text>
+        <text
+           x="259.34"
+           y="210.42999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.61"
+           lengthAdjust="spacingAndGlyphs"
+           id="text654">GT</text>
+        <text
+           x="277.69"
+           y="258.85001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.01"
+           lengthAdjust="spacingAndGlyphs"
+           id="text656">GR</text>
+        <text
+           x="296.04001"
+           y="210.42999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.78"
+           lengthAdjust="spacingAndGlyphs"
+           id="text658">HG</text>
+        <text
+           x="240.99001"
+           y="226.57001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.5799999"
+           lengthAdjust="spacingAndGlyphs"
+           id="text660">JC</text>
+        <text
+           x="259.34"
+           y="226.57001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.2"
+           lengthAdjust="spacingAndGlyphs"
+           id="text662">EM</text>
+        <text
+           x="259.34"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.76"
+           lengthAdjust="spacingAndGlyphs"
+           id="text664">MI</text>
+        <text
+           x="277.69"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="14.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text666">MO</text>
+        <text
+           x="222.64"
+           y="210.42999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.25"
+           lengthAdjust="spacingAndGlyphs"
+           id="text668">NY</text>
+        <text
+           x="277.69"
+           y="178.14"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.84"
+           lengthAdjust="spacingAndGlyphs"
+           id="text670">NL</text>
+        <text
+           x="296.04001"
+           y="258.85001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.62"
+           lengthAdjust="spacingAndGlyphs"
+           id="text672">OA</text>
+        <text
+           x="296.04001"
+           y="226.57001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.05"
+           lengthAdjust="spacingAndGlyphs"
+           id="text674">PU</text>
+        <text
+           x="277.69"
+           y="210.42999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text676">QT</text>
+        <text
+           x="351.09"
+           y="258.85001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.72"
+           lengthAdjust="spacingAndGlyphs"
+           id="text678">QR</text>
+        <text
+           x="277.69"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.43"
+           lengthAdjust="spacingAndGlyphs"
+           id="text680">SL</text>
+        <text
+           x="222.64"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.1800003"
+           lengthAdjust="spacingAndGlyphs"
+           id="text682">SI</text>
+        <text
+           x="222.64"
+           y="178.14"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.09"
+           lengthAdjust="spacingAndGlyphs"
+           id="text684">SO</text>
+        <text
+           x="314.39001"
+           y="258.85001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text686">TB</text>
+        <text
+           x="296.04001"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.39"
+           lengthAdjust="spacingAndGlyphs"
+           id="text688">TM</text>
+        <text
+           x="277.69"
+           y="226.57001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text690">TL</text>
+        <text
+           x="314.39001"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.99"
+           lengthAdjust="spacingAndGlyphs"
+           id="text692">VE</text>
+        <text
+           x="351.09"
+           y="242.71001"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.04"
+           lengthAdjust="spacingAndGlyphs"
+           id="text694">YU</text>
+        <text
+           x="259.34"
+           y="194.28999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.24"
+           lengthAdjust="spacingAndGlyphs"
+           id="text696">ZA</text>
+      </g>
+      <g
+         clip-path="url(#cpMzcyLjk5fDU1Mi42M3wxNi45MnwxMzkuNDM=)"
+         id="g972"
+         transform="matrix(0.84621133,0,0,0.84621133,-162.04266,147.52629)">
+        <rect
+           x="417.85001"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect844" />
+        <rect
+           x="381.16"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect846" />
+        <rect
+           x="381.16"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect848" />
+        <rect
+           x="509.60001"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b28b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect850" />
+        <rect
+           x="491.25"
+           y="119.34"
+           width="16.51"
+           height="14.53"
+           style="fill:#f06d4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect852" />
+        <rect
+           x="417.85001"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect854" />
+        <rect
+           x="472.89999"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#eb594a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect856" />
+        <rect
+           x="436.20001"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69e78;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect858" />
+        <rect
+           x="417.85001"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect860" />
+        <rect
+           x="417.85001"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69e78;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect862" />
+        <rect
+           x="436.20001"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69770;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect864" />
+        <rect
+           x="454.54999"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f4805b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect866" />
+        <rect
+           x="472.89999"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f47e58;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect868" />
+        <rect
+           x="417.85001"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#f27150;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect870" />
+        <rect
+           x="436.20001"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#b81d55;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect872" />
+        <rect
+           x="436.20001"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f06d4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect874" />
+        <rect
+           x="454.54999"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f27150;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect876" />
+        <rect
+           x="399.5"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect878" />
+        <rect
+           x="454.54999"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#e64946;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect880" />
+        <rect
+           x="472.89999"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#d32b49;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect882" />
+        <rect
+           x="472.89999"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#f27150;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect884" />
+        <rect
+           x="454.54999"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b28b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect886" />
+        <rect
+           x="527.95001"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect888" />
+        <rect
+           x="454.54999"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58862;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect890" />
+        <rect
+           x="399.5"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#9d1b59;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect892" />
+        <rect
+           x="399.5"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#ee664d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect894" />
+        <rect
+           x="491.25"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f16f4f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect896" />
+        <rect
+           x="472.89999"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect898" />
+        <rect
+           x="454.54999"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6af89;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect900" />
+        <rect
+           x="491.25"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#701f57;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect902" />
+        <rect
+           x="527.95001"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69e78;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect904" />
+        <rect
+           x="436.20001"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69973;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect906" />
+        <text
+           x="426.10999"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.91"
+           lengthAdjust="spacingAndGlyphs"
+           id="text908">AG</text>
+        <text
+           x="389.41"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.49"
+           lengthAdjust="spacingAndGlyphs"
+           id="text910">BC</text>
+        <text
+           x="389.41"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.1"
+           lengthAdjust="spacingAndGlyphs"
+           id="text912">BS</text>
+        <text
+           x="517.85999"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.55"
+           lengthAdjust="spacingAndGlyphs"
+           id="text914">CM</text>
+        <text
+           x="499.51001"
+           y="130.08"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.97"
+           lengthAdjust="spacingAndGlyphs"
+           id="text916">CS</text>
+        <text
+           x="426.10999"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.37"
+           lengthAdjust="spacingAndGlyphs"
+           id="text918">CH</text>
+        <text
+           x="481.16"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text920">CX</text>
+        <text
+           x="444.45999"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.48"
+           lengthAdjust="spacingAndGlyphs"
+           id="text922">CO</text>
+        <text
+           x="426.10999"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text924">CL</text>
+        <text
+           x="426.10999"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.6"
+           lengthAdjust="spacingAndGlyphs"
+           id="text926">DG</text>
+        <text
+           x="444.45999"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.61"
+           lengthAdjust="spacingAndGlyphs"
+           id="text928">GT</text>
+        <text
+           x="462.81"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.01"
+           lengthAdjust="spacingAndGlyphs"
+           id="text930">GR</text>
+        <text
+           x="481.16"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.78"
+           lengthAdjust="spacingAndGlyphs"
+           id="text932">HG</text>
+        <text
+           x="426.10999"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.5799999"
+           lengthAdjust="spacingAndGlyphs"
+           id="text934">JC</text>
+        <text
+           x="444.45999"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.2"
+           lengthAdjust="spacingAndGlyphs"
+           id="text936">EM</text>
+        <text
+           x="444.45999"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.76"
+           lengthAdjust="spacingAndGlyphs"
+           id="text938">MI</text>
+        <text
+           x="462.81"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="14.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text940">MO</text>
+        <text
+           x="407.76001"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.25"
+           lengthAdjust="spacingAndGlyphs"
+           id="text942">NY</text>
+        <text
+           x="462.81"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.84"
+           lengthAdjust="spacingAndGlyphs"
+           id="text944">NL</text>
+        <text
+           x="481.16"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.62"
+           lengthAdjust="spacingAndGlyphs"
+           id="text946">OA</text>
+        <text
+           x="481.16"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.05"
+           lengthAdjust="spacingAndGlyphs"
+           id="text948">PU</text>
+        <text
+           x="462.81"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text950">QT</text>
+        <text
+           x="536.21002"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.72"
+           lengthAdjust="spacingAndGlyphs"
+           id="text952">QR</text>
+        <text
+           x="462.81"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.43"
+           lengthAdjust="spacingAndGlyphs"
+           id="text954">SL</text>
+        <text
+           x="407.76001"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.1800003"
+           lengthAdjust="spacingAndGlyphs"
+           id="text956">SI</text>
+        <text
+           x="407.76001"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.09"
+           lengthAdjust="spacingAndGlyphs"
+           id="text958">SO</text>
+        <text
+           x="499.51001"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text960">TB</text>
+        <text
+           x="481.16"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.39"
+           lengthAdjust="spacingAndGlyphs"
+           id="text962">TM</text>
+        <text
+           x="462.81"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text964">TL</text>
+        <text
+           x="499.51001"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.99"
+           lengthAdjust="spacingAndGlyphs"
+           id="text966">VE</text>
+        <text
+           x="536.21002"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.04"
+           lengthAdjust="spacingAndGlyphs"
+           id="text968">YU</text>
+        <text
+           x="444.45999"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.24"
+           lengthAdjust="spacingAndGlyphs"
+           id="text970">ZA</text>
+      </g>
+      <g
+         clip-path="url(#cpMi43NHwxODIuMzl8MTYuOTJ8MTM5LjQz)"
+         id="g150"
+         transform="matrix(0.84621133,0,0,0.84621133,-4.781683,147.52629)">
+        <rect
+           x="47.610001"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect22" />
+        <rect
+           x="10.91"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69c75;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect24" />
+        <rect
+           x="10.91"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect26" />
+        <rect
+           x="139.35001"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6aa84;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect28" />
+        <rect
+           x="121"
+           y="119.34"
+           width="16.51"
+           height="14.53"
+           style="fill:#eb5c4a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect30" />
+        <rect
+           x="47.610001"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect32" />
+        <rect
+           x="102.65"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#d52c48;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect34" />
+        <rect
+           x="65.959999"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58d67;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect36" />
+        <rect
+           x="47.610001"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a882;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect38" />
+        <rect
+           x="47.610001"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6af89;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect40" />
+        <rect
+           x="65.959999"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f58d67;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect42" />
+        <rect
+           x="84.300003"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b28b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect44" />
+        <rect
+           x="102.65"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect46" />
+        <rect
+           x="47.610001"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#c9264e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect48" />
+        <rect
+           x="65.959999"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#cd284c;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect50" />
+        <rect
+           x="65.959999"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69770;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect52" />
+        <rect
+           x="84.300003"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f69069;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect54" />
+        <rect
+           x="29.26"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect56" />
+        <rect
+           x="84.300003"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b28b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect58" />
+        <rect
+           x="102.65"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a17a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect60" />
+        <rect
+           x="102.65"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a67f;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect62" />
+        <rect
+           x="84.300003"
+           y="54.77"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a17a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect64" />
+        <rect
+           x="157.7"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect66" />
+        <rect
+           x="84.300003"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a37d;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect68" />
+        <rect
+           x="29.26"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6926b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect70" />
+        <rect
+           x="29.26"
+           y="22.49"
+           width="16.51"
+           height="14.53"
+           style="fill:#f37953;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect72" />
+        <rect
+           x="121"
+           y="103.2"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6a17a;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect74" />
+        <rect
+           x="102.65"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect76" />
+        <rect
+           x="84.300003"
+           y="70.910004"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect78" />
+        <rect
+           x="121"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#e95248;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect80" />
+        <rect
+           x="157.7"
+           y="87.050003"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b28b;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect82" />
+        <rect
+           x="65.959999"
+           y="38.630001"
+           width="16.51"
+           height="14.53"
+           style="fill:#f6b48e;stroke:none;stroke-width:0.21;stroke-linecap:square;stroke-linejoin:miter"
+           id="rect84" />
+        <text
+           x="55.860001"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.91"
+           lengthAdjust="spacingAndGlyphs"
+           id="text86">AG</text>
+        <text
+           x="19.16"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.49"
+           lengthAdjust="spacingAndGlyphs"
+           id="text88">BC</text>
+        <text
+           x="19.16"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.1"
+           lengthAdjust="spacingAndGlyphs"
+           id="text90">BS</text>
+        <text
+           x="147.61"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.55"
+           lengthAdjust="spacingAndGlyphs"
+           id="text92">CM</text>
+        <text
+           x="129.25999"
+           y="130.08"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.97"
+           lengthAdjust="spacingAndGlyphs"
+           id="text94">CS</text>
+        <text
+           x="55.860001"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.37"
+           lengthAdjust="spacingAndGlyphs"
+           id="text96">CH</text>
+        <text
+           x="110.91"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text98">CX</text>
+        <text
+           x="74.209999"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.48"
+           lengthAdjust="spacingAndGlyphs"
+           id="text100">CO</text>
+        <text
+           x="55.860001"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.83"
+           lengthAdjust="spacingAndGlyphs"
+           id="text102">CL</text>
+        <text
+           x="55.860001"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.6"
+           lengthAdjust="spacingAndGlyphs"
+           id="text104">DG</text>
+        <text
+           x="74.209999"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.61"
+           lengthAdjust="spacingAndGlyphs"
+           id="text106">GT</text>
+        <text
+           x="92.559998"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.01"
+           lengthAdjust="spacingAndGlyphs"
+           id="text108">GR</text>
+        <text
+           x="110.91"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.78"
+           lengthAdjust="spacingAndGlyphs"
+           id="text110">HG</text>
+        <text
+           x="55.860001"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.5799999"
+           lengthAdjust="spacingAndGlyphs"
+           id="text112">JC</text>
+        <text
+           x="74.209999"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.2"
+           lengthAdjust="spacingAndGlyphs"
+           id="text114">EM</text>
+        <text
+           x="74.209999"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.76"
+           lengthAdjust="spacingAndGlyphs"
+           id="text116">MI</text>
+        <text
+           x="92.559998"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="14.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text118">MO</text>
+        <text
+           x="37.509998"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.25"
+           lengthAdjust="spacingAndGlyphs"
+           id="text120">NY</text>
+        <text
+           x="92.559998"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.84"
+           lengthAdjust="spacingAndGlyphs"
+           id="text122">NL</text>
+        <text
+           x="110.91"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.62"
+           lengthAdjust="spacingAndGlyphs"
+           id="text124">OA</text>
+        <text
+           x="110.91"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.05"
+           lengthAdjust="spacingAndGlyphs"
+           id="text126">PU</text>
+        <text
+           x="92.559998"
+           y="65.519997"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text128">QT</text>
+        <text
+           x="165.96001"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.72"
+           lengthAdjust="spacingAndGlyphs"
+           id="text130">QR</text>
+        <text
+           x="92.559998"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.43"
+           lengthAdjust="spacingAndGlyphs"
+           id="text132">SL</text>
+        <text
+           x="37.509998"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="8.1800003"
+           lengthAdjust="spacingAndGlyphs"
+           id="text134">SI</text>
+        <text
+           x="37.509998"
+           y="33.23"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.09"
+           lengthAdjust="spacingAndGlyphs"
+           id="text136">SO</text>
+        <text
+           x="129.25999"
+           y="113.94"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.33"
+           lengthAdjust="spacingAndGlyphs"
+           id="text138">TB</text>
+        <text
+           x="110.91"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="13.39"
+           lengthAdjust="spacingAndGlyphs"
+           id="text140">TM</text>
+        <text
+           x="92.559998"
+           y="81.660004"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.67"
+           lengthAdjust="spacingAndGlyphs"
+           id="text142">TL</text>
+        <text
+           x="129.25999"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="10.99"
+           lengthAdjust="spacingAndGlyphs"
+           id="text144">VE</text>
+        <text
+           x="165.96001"
+           y="97.800003"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="12.04"
+           lengthAdjust="spacingAndGlyphs"
+           id="text146">YU</text>
+        <text
+           x="74.209999"
+           y="49.369999"
+           text-anchor="middle"
+           style="font-size:9.96px;font-family:'PT Sans';fill:#ffffff"
+           textLength="11.24"
+           lengthAdjust="spacingAndGlyphs"
+           id="text148">ZA</text>
+      </g>
+    </g>
+    <g
+       id="g36140"
+       transform="translate(0,34.5)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d6d6d6;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM)"
+         d="m 63.483484,339.71077 v 28.54301"
+         id="path2144"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d6d6d6;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-4)"
+         d="m 375.34349,339.71077 v 28.54301"
+         id="path2144-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d6d6d6;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-4-0)"
+         d="m 531.2635,339.71077 v 28.54301"
+         id="path2144-4-39"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d6d6d6;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotM-4-7)"
+         d="m 219.41348,339.71077 v 28.54301"
+         id="path2144-4-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     x="323.50903"
+     y="38.724472"
+     id="text8366"><tspan
+       sodipodi:role="line"
+       id="tspan8364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07"
+       x="323.50903"
+       y="38.724472">#M<tspan
+   style="font-size:24px"
+   id="tspan17242">ÉXICO</tspan>F<tspan
+   style="font-size:24px"
+   id="tspan18810">EMINICIDA</tspan></tspan></text>
+  <g
+     id="g85316"
+     transform="translate(0.04550477,13.839771)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#d6d6d6;stroke-width:1.41732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dashoffset:0.529134;stroke-opacity:1"
+       d="M 324.26925,57.383788 V 237.45963"
+       id="path2296-2"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g85116"
+       transform="translate(-3)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-8"
+         transform="matrix(2.8346457,0,0,2.8346457,325.92846,-60.483028)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1753">- Crime incidence data report the number of monthly </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1755">femicides committed since 2015.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-8-2"
+         transform="matrix(2.8346457,0,0,2.8346457,325.48446,-21.981487)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1757">- Femicide is defined as the murder of a woman for </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1759">reasons of gender.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-8-2-3"
+         transform="matrix(2.8346457,0,0,2.8346457,325.60446,18.860043)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1761">- Some factors that motivate femicide are: hatred, </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1763">contempt or sense of possession towards women.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-8-2-8"
+         transform="matrix(2.8346457,0,0,2.8346457,325.48446,59.689575)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1765">- The entities with the most femicides are Mexico City </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1767">(CX), the State of Mexico (EM), Jalisco (JC), Nuevo León </tspan><tspan
+           x="5.3186398"
+           y="58.766428"
+           id="tspan1769">(NL), and Veracruz (VE).</tspan></text>
+    </g>
+    <g
+       id="g85106"
+       transform="translate(-3,-0.05400154)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629"
+         transform="matrix(2.8346457,0,0,2.8346457,9.1003594,-60.375025)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1771">- Los datos de incidencia delictiva registran el número </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1773">de feminicidios mensuales cometidos desde 2015.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-36"
+         transform="matrix(2.8346457,0,0,2.8346457,8.9803595,-21.981487)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1775">- El feminicidio se define como el asesinato de una </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1777">mujer por razones de género.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-36-0"
+         transform="matrix(2.8346457,0,0,2.8346457,9.1003594,18.848043)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1779">- Algunos factores que motivan el feminicidio son: odio, </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1781">desprecio o sentido de posesión hacia la mujer.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:5.57797px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:101.986;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="5.3186398"
+         y="47.610489"
+         id="text14629-36-0-6-7"
+         transform="matrix(2.8346457,0,0,2.8346457,9.2203593,59.785575)"><tspan
+           x="5.3186398"
+           y="47.610489"
+           id="tspan1783">- Las entidades con más feminicidios son Ciudad de </tspan><tspan
+           x="5.3186398"
+           y="53.188459"
+           id="tspan1785">México (CX), Estado de México (EM), Jalisco (JC), Nuevo </tspan><tspan
+           x="5.3186398"
+           y="58.766428"
+           id="tspan1787">León (NL) y Veracruz (VE).</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,0.04550477,-1.1602287)"
+     id="text16358"
+     style="font-size:16px;line-height:120%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:center;white-space:pre;shape-inside:url(#rect16360);fill:#99bfdd;stroke:#d6d6d6;stroke-width:1.51181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.8px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="609.39337"
+     y="433.68735"
+     id="text87418"><tspan
+       sodipodi:role="line"
+       id="tspan87416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.8px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386"
+       x="609.39337"
+       y="433.68735">Tres meses</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.8px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386"
+       x="609.39337"
+       y="444.24734"
+       id="tspan89782">Three months</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#d6d6d6;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+     d="M 609.27898,423.50546 V 411.40289"
+     id="path90783"
+     sodipodi:nodetypes="cc" />
+  <g
+     id="g102819"
+     transform="translate(-25.805884,-1.1602287)">
+    <image
+       width="13.710308"
+       height="247.89293"
+       x="566.60388"
+       y="-471.68903"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAEsCAYAAAACUNnVAAAAwklEQVQ4jZ1TWw6DMAyzPe0Su/89u49CSFq3Y/yg+BE7QoDX+9MkEiKAPg2QAekgCJEzBC5oNpzPWe5yxDHZ3i2nlIfSEZO4ELJlq9YjrTrscqkWqNWaVVMlgsOOa3i023772q53CqA5yB25Kr84tnhXA6wTsRAeWNz0h1k2IKZleUwgIAoQxAn2H9HB7osNmgAO8PwIMcAITdClsJ7BU01wVPcdPB99TRlmVVHEatGUckDFyymcjaducluzuWA67eC+4bwkjsU/OwUAAAAASUVORK5CYII="
+       id="image1235"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 224.22641,594.76455 v -6.95034 h 247.061 v 6.95034"
+       id="path96037"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 388.9433,587.81421 v 6.95034"
+       id="path96037-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 306.57059,587.81421 v 6.95034"
+       id="path96037-6-5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.79998px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="224.22639"
+       y="603.76453"
+       id="text98923"><tspan
+         sodipodi:role="line"
+         id="tspan98921"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="224.22639"
+         y="603.76453">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.79998px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="306.42099"
+       y="603.76453"
+       id="text100203"><tspan
+         sodipodi:role="line"
+         id="tspan100201"
+         style="stroke-width:1"
+         x="306.42099"
+         y="603.76453">50</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.79998px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="388.82449"
+       y="603.76453"
+       id="text100669"><tspan
+         sodipodi:role="line"
+         id="tspan100667"
+         style="stroke-width:1"
+         x="388.82449"
+         y="603.76453">100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.79998px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="471.28741"
+       y="603.76453"
+       id="text101927"><tspan
+         sodipodi:role="line"
+         id="tspan101925"
+         style="stroke-width:1"
+         x="471.28741"
+         y="603.76453">150</tspan></text>
+  </g>
+  <g
+     id="g35082"
+     style="display:inline"
+     transform="matrix(2.8346457,0,0,2.8346457,121.30452,-46.504746)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0.95;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352999;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="71.721313"
+       y="237.61119"
+       id="text251738"><tspan
+         sodipodi:role="line"
+         id="tspan251736"
+         style="text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1;stroke-width:0.353"
+         x="71.721313"
+         y="237.61119">Autor/Author: David Martínez- Galicia | Datos/Data: Datos de incidencia delictiva (SESNSP, 05/2022)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1;stroke-width:0.353"
+         x="71.721313"
+         y="240.96257"
+         id="tspan110348">Paleta/Palette: Rocket (Viridis) | Códigos/Codes: ISO 3166-2</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:120%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;fill:#a0a0a0;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="324.27805"
+     y="58.500004"
+     id="text111430"><tspan
+       sodipodi:role="line"
+       id="tspan111428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a0a0a0;fill-opacity:1;stroke-width:1"
+       x="324.27805"
+       y="58.500004">#F<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a0a0a0;fill-opacity:1"
+   id="tspan114892">EMICIDAL</tspan>M<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a0a0a0;fill-opacity:1"
+   id="tspan117200">EXICO</tspan></tspan></text>
+</svg>
