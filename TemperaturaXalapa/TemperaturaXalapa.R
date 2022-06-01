@@ -41,25 +41,3 @@ ggplot() + coord_polar() +
   scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50), 
                      labels = c("0°C", "", "20°C", "", "40°C", ""), limits = c(-20,50)) +
   scale_x_date(date_breaks = "1 month", labels = date_format("%b"))
-
-df %>% group_by(AÑO)%>% summarise(TMEAN = mean(TMEAN, na.rm = T), TMAX = mean(TMAX, na.rm = T),
-                                   TMIN = mean(TMIN, na.rm = T))
-
-
-
-
-
-  df2 <- df %>% select(FECHA, FECHA2, TMEAN, AÑO) %>% subset(AÑO == 2006 | AÑO == 2018) %>%
-  group_by(FECHA2) %>% summarise(TMAX = max(TMEAN), TMIN = min(TMEAN))
-
-df %>% group_by(AÑO, MES) %>% summarise(TMIN = mean(TMIN, na.rm = T), TMAX = mean(TMAX, na.rm = T)) %>% 
-  mutate(FECHA = as.Date(paste(AÑO,"-",MES,"-","01",sep = ""))) %>% ggplot() +
-  geom_ribbon(aes(x = FECHA, ymin = TMIN, ymax = TMAX, fill = AÑO))
-
-ggplot() + geom_line(data = subset(df, AÑO == 2006), aes(x = FECHA2, y = TMEAN, group = AÑO, col = AÑO)) + 
-  geom_line(data = subset(df, AÑO == 2018), aes(x = FECHA2, y = TMEAN, group = AÑO, col = AÑO)) + 
-  geom_ribbon(data = df2, aes(x = FECHA2, ymin = TMIN, ymax = TMAX))
-
-
-df %>% ggplot(aes(x = FECHA2, y = TMAX, group = AÑO, fill = AÑO)) + 
-  geom_ribbon(aes(ymin = TMIN, ymax = TMAX, x = FECHA2)) + scale_fill_manual(values = met.brewer("Hokusai1", 14))
